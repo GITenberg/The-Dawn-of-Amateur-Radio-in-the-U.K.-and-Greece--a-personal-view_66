@@ -1,0 +1,22 @@
+_repo: The-Dawn-of-Amateur-Radio-in-the-U.K.-and-Greece--a-personal-view_66
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Joly, Norman F.
+    gutenberg_agent_id: '50'
+    url: http://www.gutenberg.org/2009/agents/50
+description: ''
+gutenberg_issued: '1993-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '66'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Radio broadcasting'
+- !lcc 'TK'
+- GITenberg
+title: 'The Dawn of Amateur Radio in the U.K. and Greece: A Personal View'
+url: http://www.gutenberg.org/ebooks/66
